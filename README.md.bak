@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # fiber_gorm_rest_api
 
 Building 🍺 REST API with Fiber &amp; GORM.
