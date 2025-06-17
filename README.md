@@ -20,5 +20,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
