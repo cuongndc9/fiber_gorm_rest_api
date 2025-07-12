@@ -20,5 +20,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
